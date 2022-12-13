@@ -12,4 +12,4 @@ This is a (so far) unofficial project that I'm doing for the AGS poli-sim discor
 
 This is an **unofficial** project! The mods have nothing to do with it so far, and they have no plans to integrate the bot into the server.
 
-*By the way, the name is meant to be pronounced like* "Agnieszka"*, so you know*
+*By the way, the name is meant to be pronounced like* "Agnieszka"*, in Polish*
